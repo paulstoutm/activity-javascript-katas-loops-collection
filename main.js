@@ -106,7 +106,7 @@ let counter6 = 20
 ***/
 console.log('%cKATA 07 RESULTS:', 'background: darkblue; color: white; font-weight: bold;')
 let counter7 = 20
-  while (counter7 >= 1) {
+  while (counter7 >= 2) {
    console.log(counter7)
       counter7 -= 2
   }
